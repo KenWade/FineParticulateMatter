@@ -19,8 +19,8 @@
 #
 #               Use the ggplot2 plotting system to make a plot answer this question.
 #
-#   Answer:     Decreases seen for NON-ROAD, NONPOINT, and ON-ROAD sources
-#               Increase seen for POINT sources
+#   Answer:     Decreases seen for NON-ROAD, NONPOINT, and ON-ROAD sources.
+#               Increase seen for POINT sources.
 #
 
 ####

@@ -15,7 +15,7 @@
 #
 #   Question:  Across the United States, how have emissions from coal combustion-related sources changed from 1999-2008?
 #
-#   Answer:    Coal combustion-related sources have decreased from 1999-2008.
+#   Answer:    Emissions from coal combustion-related sources have decreased from 1999-2008.
 #
 
 ####

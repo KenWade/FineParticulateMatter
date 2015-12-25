@@ -18,10 +18,10 @@
 #
 #               Which city has seen greater changes over time in motor vehicle emissions?
 #
-#   Answer:     Interesting question...
+#   Answer:     Interesting question...  What, exactly, is being asked?
 #               Without question LA County has more total motor vehicle emissions than Baltimore City.
-#               LA has seen more change in motor vehicle emissions between maximum and minimum emission years than Baltimore.
-#                   However, from 1999 to 2008 the overall change has been less for LA than Baltimore.
+#               LA has seen more changes in motor vehicle emissions between the maximum and minimum emission years than Baltimore.
+#               However, from 1999 to 2008 the overall change has been greater in Baltimore.
 #
 
 ####
