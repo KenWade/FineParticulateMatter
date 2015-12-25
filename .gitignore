@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+FineParticulateMatter.R
+*.zip
+data/zipcontents/Source_Classification_Code.rds
+*.rds
